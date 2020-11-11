@@ -1,8 +1,41 @@
-helloooo
-most stuff has been added
-we are cloning
-remote to local
-making some changes
-pushing it back to
-remote repository
-FILE2 MORE STUFF HERE
+Possible Interview questions
+==================================
+1. what is SDLC?
+2. What software methodology you implement in your team? (Agile)
+3. What is a user story?
+4. What is an Epic?
+5. What is Acceptance Criteria (AC) ?
+6. What is product backlog?
+7. What is your team size?
+8. What agile meetings you attend?
+     8.1 What do you do in grooming meeting?
+     8.2 How do you give point? what is Fibonacci ?
+     8.3 What do you do in sprint planning meeting?
+     8.4 What is sprint backlog ?
+     8.5 What is team capacity and velocity?
+     8.6 Who starts the sprint?
+     8.7 What do you do in daily stand up meeting?
+     8.8 What do you do in Demo (sprint review) meeting?
+     8.9 Who accepts user stories?
+     8.10 Who ends the sprint?
+     8.11 What to do with incomplete ticket(story, bug) ?
+     8.12 What do you do in retro meeting?
+9. What is dynamic testing?
+10. What is static testing?
+11. What is functional testing?
+12. What is unit testing and who does that? it runs in which environment?
+13. What is integration testing and who does that? it runs in which environment?
+14. What is smoke test? it runs in which environment?
+    14.1 How long does your smoke test take to run?
+    14.2 How often do you run your smoke test?
+    14.3 How do you see the smoke test result?
+    14.4 How many scenarios does your smoke test have?
+15.  What is regression test? it runs in which environment?
+    15.1 How long does your regression test take to run?
+         (you can answer this after selenium Grid class)
+    15.2 How often do you run your regression test?
+
+16. What is user acceptance testing(UAT)?
+   16.1 What is Alpha testing?
+   16.2 What is Bets testing?
+17. Tell me about yourself 
